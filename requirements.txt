@@ -1,0 +1,6 @@
+pymongo[srv]
+qrcode
+uuid
+pymysql
+tensorflow
+opencv-python
